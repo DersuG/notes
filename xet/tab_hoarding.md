@@ -44,3 +44,7 @@
     - obsidian is too heavy
     - something compact and light
     - still want a file browser in it though, opening up a third window for a file explorer is too much
+
+## Tips
+- Make your browser close all tabs on exit (you can reopen important ones via your history)
+- Quit any media addictions like youtube
