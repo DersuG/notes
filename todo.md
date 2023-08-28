@@ -3,8 +3,8 @@
 Can't learn everything at once. Some things depend on other things. And there's only so much time; spend it well.
 
 ## Immediate
-- reply to Oliver's email (and upload code to gitlab)
 - cse 3903 project 0 (see website)
+- photography class readings due friday
 
 ## Short term
 - rust
