@@ -53,7 +53,13 @@ Registers hold 1 byte.
 - Compare `CPX|CPY <literal|address>` (?)
     - Sets `Z` flag to 1 if equal, 0 otherwise.
 - Push accumulator: `PHA`
+    - Pushes from `A` to stack
 - Pull accumulator: `PLA`
+    - Pops from stack to `A`
+- Jump: `JMP <address>`
+    - Unconditional jump
+- Jump to subroutine: `JSR <label>`
+- Return from subroutine: `RTS <label>`
 
 ## Branching
 - Branching can only shift execution up to 256 bytes forward or back.
@@ -105,4 +111,15 @@ Registers hold 1 byte.
 - pushes / "pulls" 1 byte at a time
 - stack pointer starts at $ff (corresponds to $01ff)
   - pushing a byte moves stack pointer to $fe ($01fe)
+
+## Jumps
+- `JMP` jumps to a 2 byte absolute address
+- `JSR` pushes the address of the next instruction minus 1 to the stack
+- `RTS` pops the address and adds 1
+
+## Assembler constants
+- `define <name> <value>`
+- can use letters, digits, underscores
+- constants are defined like `define a_dozen $0c` and used like `LDX #a_dozen`
+
 

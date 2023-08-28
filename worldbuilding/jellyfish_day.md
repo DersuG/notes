@@ -1,0 +1,11 @@
+## Jellyfish Day
+- Billions of jellyfish rise from the waters and float through the air.
+- Apocalyptic consequences
+- They are still as dangerous as they usually are
+- It's uncanny to see
+	- They are silent, delicate, dangerous
+	- They fill the air
+	- The suddenness of the halt in human affairs because of such an absurd and strange event
+- They start getting tangled up in places
+	- Infrastructure falters
+- 

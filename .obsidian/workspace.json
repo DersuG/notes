@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "86865023080e839b",
+    "type": "split",
+    "children": [
+      {
+        "id": "823d1bdd25bf2c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa39843bbd8fe0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music/making_music.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0711ce2020c6517",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music/algoraves.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb5c3aaeff2805b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bsli/meeting_2023-08-27_concurrency.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbf3798ef0c08653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music/vj.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e616e1775c1e81be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music/expanding_musical_horizons.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4eb64a3ab0b124b",
+    "type": "split",
+    "children": [
+      {
+        "id": "37f73e0cc437f5f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59da0c50f67790f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "906f1c2c87282c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5ca06d98a603ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a66937ba2298a394",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bsli/meeting_2023-08-27_concurrency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb29e43148ba0472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bsli/meeting_2023-08-27_concurrency.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb5c3aaeff2805b4",
+  "lastOpenFiles": [
+    "music/making_music.md",
+    "bsli/meeting_2023-08-27_concurrency.md",
+    "music/tools.md",
+    "music/expanding_musical_horizons.md",
+    "music/algoraves.md",
+    "thoughts/browsing_the_internet.md",
+    "music/live_coding.md",
+    "music/vj.md",
+    "cse3903/02.md",
+    "music",
+    "cse3421/02.md",
+    "todo.md",
+    "cse3421/01.md",
+    "cse3903",
+    "cse3421",
+    "misc/ccg.md",
+    "misc/flash_games.md",
+    "misc/mtg_formats.md",
+    "misc/datamoshing.md",
+    "misc/breakaways.md",
+    "misc/little_musicians.md",
+    "misc/indie.md",
+    "bsli/meeting_notes_format.md",
+    "misc/free_textures.md",
+    "bsli/meeting_2023-08-13_avionics_requirements.md",
+    "bsli/meeting_2023-07-15_onboarding.md",
+    "bsli/mavlink.md",
+    "programming/dos_programming.md",
+    "programming/thinkpad_dell.png",
+    "programming/organized_programming.md",
+    "bsli",
+    "solarpunk/wind_power_taiwan.jpg",
+    "solarpunk",
+    "solarpunk/hydroponics_jms.png",
+    "programming"
+  ]
+}

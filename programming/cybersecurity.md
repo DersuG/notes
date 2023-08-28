@@ -29,5 +29,4 @@
 - https://repzret.org/p/repzret/
 - [PLC Ladder Logic](https://www.plcacademy.com/ladder-logic-tutorial/)
 - [Bochs x86 emulator](https://wiki.osdev.org/Bochs)
-- 
-
+- [[safe_programming]]

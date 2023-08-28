@@ -4,7 +4,9 @@ author: dawn
 author_url: dawnvoid.neocities.org
 ---
 # xet
+
 *xet, short for xettelkasten, an intentional mispelling of zettelkasten*
+
 - public zettelkasten
     - yes, the internet is one, but it's shit
     - link to / interface with other public zettelkastens
@@ -28,8 +30,6 @@ author_url: dawnvoid.neocities.org
 - free
     - creative commons / open source license of some sort (undecided)
 
-![[xet.excalidraw]]
-
 ### Digital garden design & implementation
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 - [Digital Garden Terms of Service](https://www.swyx.io/digital-garden-tos)
@@ -37,6 +37,7 @@ author_url: dawnvoid.neocities.org
 - [tiddlywiki](https://nesslabs.com/tiddlywiki-beginner-tutorial)
 
 How to structure?
+
 - Inline links should be `[text](link)` format, as that means renaming the file won't break the text around it.
 - Standalone links can use any format, as long as it's easy to read.
 - Wiki-style `[[link]]` links are convenient but:
