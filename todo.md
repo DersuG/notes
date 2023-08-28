@@ -3,9 +3,11 @@
 Can't learn everything at once. Some things depend on other things. And there's only so much time; spend it well.
 
 ## Immediate
-- cse 3903 project 0 (see website)
-- photography class readings due friday
-- respond to work email
+
+- [x] cse3903 project 0 (see website)
+- [ ] art2555 class readings due friday
+- [ ] art2555 project 1 due 2023-09-13 (wednesday, september 13)
+- [x] respond to work email
 
 ## Short term
 - rust

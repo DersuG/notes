@@ -16,3 +16,8 @@ https://www.techrepublic.com/article/how-to-install-git-on-android/
 5. when you clone repos, use the ssh url instead of the https url
     1. you can fix an existing repo with: `git remote set-url origin git@github.com:<username>/<project>.git`
     2. https://stackoverflow.com/questions/14762034/push-to-github-without-a-password-using-ssh-key
+
+## What to do with this info
+- sync Obsidian notes for free
+- send files between devices (impractical tbh)
+- ???
