@@ -5,6 +5,7 @@ Can't learn everything at once. Some things depend on other things. And there's 
 ## Immediate
 - cse 3903 project 0 (see website)
 - photography class readings due friday
+- respond to work email
 
 ## Short term
 - rust
