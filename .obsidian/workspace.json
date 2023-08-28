@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ling3801/02.md",
+                "file": "cse3903/02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/git_mobile.md",
+                "file": "cse3903/02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,18 +106,28 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/git_mobile.md",
+                "file": "cse3903/02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "efb77332d3a1d958",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cse3903/02.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -127,14 +136,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b329862f61d55917",
+  "active": "4b1b43d19d7cc4ce",
   "lastOpenFiles": [
-    "misc/git_mobile.md",
-    "programming/git_mobile.md",
     "programming/git.md",
+    "cse3903/02.md",
+    "cse3421/02.md",
+    "ling3801/02.md",
+    "programming/git_mobile.md",
+    "misc/git_mobile.md",
     "main.md",
     "todo.md",
-    "ling3801/02.md",
     "README.md",
     "ling3801",
     "bsli/meeting_2023-08-27_concurrency.md",
@@ -145,9 +156,7 @@
     "thoughts/browsing_the_internet.md",
     "music/live_coding.md",
     "music/vj.md",
-    "cse3903/02.md",
     "music",
-    "cse3421/02.md",
     "cse3421/01.md",
     "cse3903",
     "cse3421",
