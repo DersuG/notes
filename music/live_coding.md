@@ -8,6 +8,11 @@
 - [bol processor](https://bolprocessor.org/)
 - 
 
+## People
+- [badcirculation](https://badcirculation.github.io/)
+    - badcirculation are Antonio Roberts (hellocatfood) and Maria Witek (mxwx). They use live coding software to collaboratively live code experimental techno and house, pursuing a high energy aesthetic that is both heavy and groovy.
+- []
+
 ## Original TOPLAP Manifesto
 
 We demand:

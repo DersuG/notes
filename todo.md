@@ -8,6 +8,14 @@ Can't learn everything at once. Some things depend on other things. And there's 
 - [ ] art2555 class readings due friday
 - [ ] art2555 project 1 due 2023-09-13 (wednesday, september 13)
 - [x] respond to work email
+- [ ] bsli: read freertos docs
+- [ ] respond to flexispot support email
+- [ ] figure out some kind of routine. i want to:
+    - read the cs wizard book
+    - do photography
+    - practice guitar
+    - work on bsli
+    - maybe i should block out times on my calendar?
 
 ## Short term
 - rust

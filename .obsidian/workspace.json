@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3903/02.md",
+                "file": "todo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/git_mobile.md",
+                "file": "music/live_coding.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cse3903/02.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cse3903/02.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cse3903/02.md"
+                "file": "todo.md"
               }
             }
           }
@@ -138,14 +138,15 @@
   },
   "active": "4b1b43d19d7cc4ce",
   "lastOpenFiles": [
+    "music/live_coding.md",
+    "programming/git_mobile.md",
     "programming/git.md",
+    "todo.md",
     "cse3903/02.md",
     "cse3421/02.md",
     "ling3801/02.md",
-    "programming/git_mobile.md",
     "misc/git_mobile.md",
     "main.md",
-    "todo.md",
     "README.md",
     "ling3801",
     "bsli/meeting_2023-08-27_concurrency.md",
@@ -154,7 +155,6 @@
     "music/expanding_musical_horizons.md",
     "music/algoraves.md",
     "thoughts/browsing_the_internet.md",
-    "music/live_coding.md",
     "music/vj.md",
     "music",
     "cse3421/01.md",
