@@ -16,7 +16,7 @@ Can't learn everything at once. Some things depend on other things. And there's 
     - practice guitar
     - work on bsli
     - maybe i should block out times on my calendar?
-
+- [ ] cse3421 homework due 2023-09-07 (thursday, september 7)
 ## Short term
 - rust
     - [rustlings](https://github.com/rust-lang/rustlings)
