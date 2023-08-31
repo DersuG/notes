@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "823d1bdd25bf2c92",
+        "id": "1cf5020ca523562d",
         "type": "tabs",
         "children": [
           {
-            "id": "4b1b43d19d7cc4ce",
+            "id": "3d6f6c4d3c8aa48a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3421/03.md",
+                "file": "bsli/meeting_notes_format.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,51 +21,12 @@
             }
           },
           {
-            "id": "fc058f3e77beee4b",
+            "id": "2a76d33660eca8e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse2431/03_processes_1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2a3d79106561b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0e7e8d90318f328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b329862f61d55917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "music/live_coding.md",
+                "file": "bsli/meeting_2023-08-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cse2431/03_processes_1.md",
+                "file": "bsli/meeting_2023-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cse2431/03_processes_1.md",
+                "file": "bsli/meeting_2023-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cse2431/03_processes_1.md"
+                "file": "bsli/meeting_2023-08-30.md"
               }
             }
           }
@@ -154,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,19 +124,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efb77332d3a1d958",
+  "active": "2a76d33660eca8e7",
   "lastOpenFiles": [
+    "bsli/meeting_notes_format.md",
+    "bsli/meeting_2023-08-30.md",
+    "todo.md",
+    "bsli/freertos.md",
+    "bsli/mavlink.md",
+    "ling3801/03.md",
+    "ling3801/02.md",
+    "bsli/freertos_scheduling_example.png.png",
+    "cse3903/03_machine_characteristics.md",
+    "cse3903/02.md",
     "cse3421/03.md",
     "cse2431/03_processes_1.md",
     "cse2431",
-    "todo.md",
     "cse3421/01.md",
     "cse3421/02.md",
     "music/live_coding.md",
     "programming/git_mobile.md",
     "programming/git.md",
-    "cse3903/02.md",
-    "ling3801/02.md",
     "misc/git_mobile.md",
     "main.md",
     "README.md",
@@ -191,12 +158,6 @@
     "music",
     "cse3903",
     "cse3421",
-    "misc/ccg.md",
-    "misc/flash_games.md",
-    "misc/mtg_formats.md",
-    "misc/datamoshing.md",
-    "misc/breakaways.md",
-    "misc/little_musicians.md",
     "programming/thinkpad_dell.png",
     "bsli",
     "solarpunk/wind_power_taiwan.jpg",
