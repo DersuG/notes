@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f41f5bd2f5d3ce4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bsli/bsli_meeting_2023-09-06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ed91bdf59d4a397f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bsli/meeting_notes_format.md",
+                "file": "bsli/bsli_meeting_2023-08-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bsli/bsli_meeting_2023-09-06.md",
+                "file": "bsli/bsli_meeting_2023-08-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bsli/bsli_meeting_2023-09-06.md",
+                "file": "bsli/bsli_meeting_2023-08-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bsli/bsli_meeting_2023-09-06.md"
+                "file": "bsli/bsli_meeting_2023-08-30.md"
               }
             }
           }
@@ -123,17 +110,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f41f5bd2f5d3ce4",
+  "active": "ed91bdf59d4a397f",
   "lastOpenFiles": [
-    "worldbuilding/absurd_architecture.md",
+    "bsli/meeting_2023-08-30.md",
     "bsli/bsli_meeting_2023-08-30.md",
     "bsli/bsli_meeting_2023-09-06.md",
+    "bsli/freertos.md",
+    "bsli/meeting_notes_format.md",
+    "thoughts/rationalizations.md",
+    "thoughts/learning_days.md",
+    "worldbuilding/absurd_architecture.md",
     "bsli/bsli_meeting_2023-08-27_concurrency.md",
     "bsli/bsli_meeting_2023-08-13_avionics_requirements.md",
     "bsli/bsli_meeting_2023-07-15_onboarding.md",
     "cse3903/cse3903_meeting_2023-08-29_machine_characteristics.md",
     "cse3421/cse3421_meeting_2023-08-29.md",
-    "bsli/meeting_notes_format.md",
     "cse3903/cse3903_meeting_2023-08-31.md",
     "cse3903/cse3903_meeting_2023-08-24.md",
     "cse2431/cse2431_meeting_2023-08-31_processes_2.md",
@@ -146,14 +137,10 @@
     "music/tidalcycles.md",
     "cse3421/cse3421_meeting_2023-08-24.md",
     "cse3421/cse3421_meeting_2023-08-22.md",
-    "bsli/freertos.md",
     "bsli/mavlink.md",
     "ling3801/03.md",
-    "ling3801/02.md",
     "bsli/freertos_scheduling_example.png.png",
     "cse2431",
-    "music/live_coding.md",
-    "programming/git_mobile.md",
     "ling3801",
     "music",
     "cse3903",
