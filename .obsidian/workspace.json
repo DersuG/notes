@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bsli/bsli_meeting_2023-08-30.md",
+                "file": "thoughts/nonlinear_text.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bsli/bsli_meeting_2023-08-30.md",
+                "file": "thoughts/nonlinear_text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bsli/bsli_meeting_2023-08-30.md",
+                "file": "thoughts/nonlinear_text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bsli/bsli_meeting_2023-08-30.md"
+                "file": "thoughts/nonlinear_text.md"
               }
             }
           }
@@ -112,8 +112,14 @@
   },
   "active": "ed91bdf59d4a397f",
   "lastOpenFiles": [
-    "bsli/meeting_2023-08-30.md",
+    "README.md",
+    "thoughts/nonlinear_text.md",
+    "index.md.md",
+    "index.md",
     "bsli/bsli_meeting_2023-08-30.md",
+    "mdwiki.html",
+    "GPLv3.txt",
+    "bsli/meeting_2023-08-30.md",
     "bsli/bsli_meeting_2023-09-06.md",
     "bsli/freertos.md",
     "bsli/meeting_notes_format.md",
@@ -135,10 +141,6 @@
     "music/tools.md",
     "todo.md",
     "music/tidalcycles.md",
-    "cse3421/cse3421_meeting_2023-08-24.md",
-    "cse3421/cse3421_meeting_2023-08-22.md",
-    "bsli/mavlink.md",
-    "ling3801/03.md",
     "bsli/freertos_scheduling_example.png.png",
     "cse2431",
     "ling3801",
@@ -149,7 +151,6 @@
     "bsli",
     "solarpunk/wind_power_taiwan.jpg",
     "solarpunk",
-    "solarpunk/hydroponics_jms.png",
-    "programming"
+    "solarpunk/hydroponics_jms.png"
   ]
 }
