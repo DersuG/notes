@@ -1,5 +1,5 @@
 # Meeting Notes Format
-- filename: `meeting_<iso_8601_date>_[descriptor]`
+- filename: `bsli_meeting_<iso_8601_date>_[descriptor]`
     - example: `meeting_2023-08-13`
     - example: `meeting_2023-08-14_gcs`
 - content:

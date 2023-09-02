@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-08-29.md",
+                "file": "bsli/bsli_meeting_2023-09-06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,33 +21,19 @@
             }
           },
           {
-            "id": "d6dcbdf5c77363bd",
+            "id": "ed91bdf59d4a397f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-08-31.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb455c783ef1f838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
+                "file": "bsli/meeting_notes_format.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-08-31.md",
+                "file": "bsli/bsli_meeting_2023-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-08-31.md",
+                "file": "bsli/bsli_meeting_2023-09-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-08-31.md"
+                "file": "bsli/bsli_meeting_2023-09-06.md"
               }
             }
           }
@@ -137,37 +123,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6dcbdf5c77363bd",
+  "active": "2f41f5bd2f5d3ce4",
   "lastOpenFiles": [
-    "todo.md",
-    "cse3421/cse3421_meeting_2023-08-31.md",
-    "cse3421/cse3421_meeting_2023-08-24.md",
-    "cse3421/cse3421_meeting_2023-08-22.md",
+    "worldbuilding/absurd_architecture.md",
+    "bsli/bsli_meeting_2023-08-30.md",
+    "bsli/bsli_meeting_2023-09-06.md",
+    "bsli/bsli_meeting_2023-08-27_concurrency.md",
+    "bsli/bsli_meeting_2023-08-13_avionics_requirements.md",
+    "bsli/bsli_meeting_2023-07-15_onboarding.md",
+    "cse3903/cse3903_meeting_2023-08-29_machine_characteristics.md",
     "cse3421/cse3421_meeting_2023-08-29.md",
     "bsli/meeting_notes_format.md",
-    "bsli/meeting_2023-08-30.md",
+    "cse3903/cse3903_meeting_2023-08-31.md",
+    "cse3903/cse3903_meeting_2023-08-24.md",
+    "cse2431/cse2431_meeting_2023-08-31_processes_2.md",
+    "cse2431/cse2431_meeting_2023-08-29_processes_1.md",
+    "cse3421/cse3421_meeting_2023-08-31.md",
+    "music/samples.md",
+    "bsli/architecture.drawio",
+    "music/tools.md",
+    "todo.md",
+    "music/tidalcycles.md",
+    "cse3421/cse3421_meeting_2023-08-24.md",
+    "cse3421/cse3421_meeting_2023-08-22.md",
     "bsli/freertos.md",
     "bsli/mavlink.md",
     "ling3801/03.md",
     "ling3801/02.md",
     "bsli/freertos_scheduling_example.png.png",
-    "cse3903/03_machine_characteristics.md",
-    "cse3903/02.md",
-    "cse2431/03_processes_1.md",
     "cse2431",
     "music/live_coding.md",
     "programming/git_mobile.md",
-    "programming/git.md",
-    "misc/git_mobile.md",
-    "main.md",
-    "README.md",
     "ling3801",
-    "bsli/meeting_2023-08-27_concurrency.md",
-    "music/making_music.md",
-    "music/tools.md",
-    "music/expanding_musical_horizons.md",
-    "music/algoraves.md",
-    "thoughts/browsing_the_internet.md",
     "music",
     "cse3903",
     "cse3421",

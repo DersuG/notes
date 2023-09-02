@@ -4,8 +4,8 @@ Can't learn everything at once. Some things depend on other things. And there's 
 
 ## Immediate
 
-- [ ] clean laptop screen
-- [ ] laundry 2023-08-30 (thursday, tomorrow)
+- [x] clean laptop screen
+- [x] laundry 2023-08-30 (thursday, tomorrow)
 - [ ] art2555 class readings due 2023-09-01 (friday, september 1)
 - [ ] art2555 project 1 due 2023-09-13 (wednesday, september 13)
 - [ ] cse3421 homework due 2023-09-07 (thursday, september 7)

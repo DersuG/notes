@@ -1,4 +1,11 @@
 # Concurrency
+## Context
+- unofficial meeting led by Toby Simpson as a crash course on concurrency
+- important because we will likely be using FreeRTOS's multitasking capabilities for the flight computer
+- we want to know:
+    - what kinds of problems we will face
+    - what is and isn't possible/sane with multitasking
+    - how we will structure our tasks and data flows
 
 ## Threading
 - models the interleaving of instructions from different processes
@@ -69,3 +76,14 @@
     - wait for readers and writers to finish
     - write
     - signal to other writers that you're done
+
+## Conclusion
+- the division of labor that multitasking gives us is worth it
+    - we can split the problem over different programming teams
+- we should try to keep things simple to prevent bugs
+- proposed architecture:
+    - **sensor control task:** reads from sensors, sends data to other tasks that need it
+        - also performs telemetry (may be split into its own task later on if things go well)
+    - **airbrake control task:** controls airbrakes, needs to get data from sensor control task
+    - **recovery control task:** does recovery stuff, needs to get data from sensor control task
+        - internally keeps track of flight plan/state (boost, coast, apogee, drogue, main, land)
