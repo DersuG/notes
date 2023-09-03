@@ -19,6 +19,7 @@ Text doesn't have to be linear. Examples of nonlinear text:
         - most people will try to read top-down
         - can emphasize specific paths
         - reader still has the final say
+    - you can even leave off the lines and set the reader truly free
 - also, it just looks cool
 
 ### Making graph poetry in draw.io
