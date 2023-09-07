@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "thoughts/revelations_for_the_lost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "thoughts/revelations_for_the_lost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "thoughts/revelations_for_the_lost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "thoughts/revelations_for_the_lost.md"
               }
             }
           }
@@ -125,6 +125,8 @@
   },
   "active": "183bb9514dcee6e3",
   "lastOpenFiles": [
+    "todo.md",
+    "thoughts/revelations_for_the_lost.md",
     "cse3421/cse3421_meeting_2023-09-07.md",
     "cse3421/cse3421_meeting_2023-09-05_processing_instructions.md",
     "cse3421/cse3421_meeting_2023-08-24_tech_stack.md",
@@ -140,7 +142,6 @@
     "cse3903/cse3903_meeting_2023-08-29_machine_characteristics.md",
     "cse3903/cse3903_meeting_2023-08-31.md",
     "cse3903/high_level_architecture.drawio",
-    "todo.md",
     "cse3903/cse3903_meeting_2023-08-24.md",
     "thoughts/nonlinear_text.md",
     "README.md",
@@ -153,7 +154,6 @@
     "bsli/freertos.md",
     "bsli/meeting_notes_format.md",
     "thoughts/rationalizations.md",
-    "thoughts/learning_days.md",
     "bsli/architecture.drawio",
     "bsli/freertos_scheduling_example.png.png",
     "cse2431",
