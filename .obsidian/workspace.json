@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e4f9fe76ac80de33",
+        "id": "080953d6fbff6653",
         "type": "tabs",
         "children": [
           {
-            "id": "ed91bdf59d4a397f",
+            "id": "183bb9514dcee6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/nonlinear_text.md",
+                "file": "todo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ee95917f783b82d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cse3421/cse3421_meeting_2023-09-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376
   },
   "right": {
     "id": "906f1c2c87282c09",
@@ -63,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/nonlinear_text.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/nonlinear_text.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/nonlinear_text.md"
+                "file": "todo.md"
               }
             }
           }
@@ -101,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -110,37 +123,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed91bdf59d4a397f",
+  "active": "183bb9514dcee6e3",
   "lastOpenFiles": [
-    "README.md",
+    "cse3421/cse3421_meeting_2023-09-07.md",
+    "cse3421/cse3421_meeting_2023-09-05_processing_instructions.md",
+    "cse3421/cse3421_meeting_2023-08-24_tech_stack.md",
+    "cse3421/cse3421_meeting_2023-08-29_performance.md",
+    "cse3421/cse3421_meeting_2023-08-31_abstractions.md",
+    "bsli/bsli_meeting_2023-09-06.md",
+    "ling3801/ling3801_meeting_2023-09-06_steganography.md",
+    "cse3903/cse3903_meeting_2023-09-05.md",
+    "cse3903/Untitled.md",
+    "cse2431/cse2431_meeting_2023-09-05.md",
+    "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
+    "cse2431/cse2431_meeting_2023-08-31_processes_2.md",
+    "cse3903/cse3903_meeting_2023-08-29_machine_characteristics.md",
+    "cse3903/cse3903_meeting_2023-08-31.md",
+    "cse3903/high_level_architecture.drawio",
+    "todo.md",
+    "cse3903/cse3903_meeting_2023-08-24.md",
     "thoughts/nonlinear_text.md",
+    "README.md",
     "index.md.md",
     "index.md",
     "bsli/bsli_meeting_2023-08-30.md",
     "mdwiki.html",
     "GPLv3.txt",
     "bsli/meeting_2023-08-30.md",
-    "bsli/bsli_meeting_2023-09-06.md",
     "bsli/freertos.md",
     "bsli/meeting_notes_format.md",
     "thoughts/rationalizations.md",
     "thoughts/learning_days.md",
-    "worldbuilding/absurd_architecture.md",
-    "bsli/bsli_meeting_2023-08-27_concurrency.md",
-    "bsli/bsli_meeting_2023-08-13_avionics_requirements.md",
-    "bsli/bsli_meeting_2023-07-15_onboarding.md",
-    "cse3903/cse3903_meeting_2023-08-29_machine_characteristics.md",
-    "cse3421/cse3421_meeting_2023-08-29.md",
-    "cse3903/cse3903_meeting_2023-08-31.md",
-    "cse3903/cse3903_meeting_2023-08-24.md",
-    "cse2431/cse2431_meeting_2023-08-31_processes_2.md",
-    "cse2431/cse2431_meeting_2023-08-29_processes_1.md",
-    "cse3421/cse3421_meeting_2023-08-31.md",
-    "music/samples.md",
     "bsli/architecture.drawio",
-    "music/tools.md",
-    "todo.md",
-    "music/tidalcycles.md",
     "bsli/freertos_scheduling_example.png.png",
     "cse2431",
     "ling3801",
@@ -150,7 +164,6 @@
     "programming/thinkpad_dell.png",
     "bsli",
     "solarpunk/wind_power_taiwan.jpg",
-    "solarpunk",
     "solarpunk/hydroponics_jms.png"
   ]
 }
