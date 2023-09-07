@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "183bb9514dcee6e3",
+            "id": "9ee95917f783b82d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/revelations_for_the_lost.md",
+                "file": "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,33 @@
             }
           },
           {
-            "id": "9ee95917f783b82d",
+            "id": "3c218fa2d621ed74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-07.md",
+                "file": "cse3903/cse3903_meeting_2023-09-05.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edcb3b53396d2219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cse3903/cse3903_meeting_2023-09-07_software_engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thoughts/revelations_for_the_lost.md",
+                "file": "cse3903/cse3903_meeting_2023-09-07_software_engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thoughts/revelations_for_the_lost.md",
+                "file": "cse3903/cse3903_meeting_2023-09-07_software_engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thoughts/revelations_for_the_lost.md"
+                "file": "cse3903/cse3903_meeting_2023-09-07_software_engineering.md"
               }
             }
           }
@@ -123,21 +137,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "183bb9514dcee6e3",
+  "active": "edcb3b53396d2219",
   "lastOpenFiles": [
-    "todo.md",
-    "thoughts/revelations_for_the_lost.md",
+    "cse3903/cse3903_meeting_2023-09-05.md",
+    "cse3903/cse3903_meeting_2023-09-07_software_engineering.md",
+    "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
     "cse3421/cse3421_meeting_2023-09-07.md",
+    "cse2431/cse2431_meeting_2023-09-07.md",
+    "thoughts/revelations_for_the_lost.md",
+    "todo.md",
     "cse3421/cse3421_meeting_2023-09-05_processing_instructions.md",
     "cse3421/cse3421_meeting_2023-08-24_tech_stack.md",
     "cse3421/cse3421_meeting_2023-08-29_performance.md",
     "cse3421/cse3421_meeting_2023-08-31_abstractions.md",
     "bsli/bsli_meeting_2023-09-06.md",
     "ling3801/ling3801_meeting_2023-09-06_steganography.md",
-    "cse3903/cse3903_meeting_2023-09-05.md",
-    "cse3903/Untitled.md",
     "cse2431/cse2431_meeting_2023-09-05.md",
-    "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
     "cse2431/cse2431_meeting_2023-08-31_processes_2.md",
     "cse3903/cse3903_meeting_2023-08-29_machine_characteristics.md",
     "cse3903/cse3903_meeting_2023-08-31.md",
@@ -153,7 +168,6 @@
     "bsli/meeting_2023-08-30.md",
     "bsli/freertos.md",
     "bsli/meeting_notes_format.md",
-    "thoughts/rationalizations.md",
     "bsli/architecture.drawio",
     "bsli/freertos_scheduling_example.png.png",
     "cse2431",
