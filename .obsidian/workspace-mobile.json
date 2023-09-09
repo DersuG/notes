@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/systems_over_goals.md",
+                "file": "todo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "thoughts/systems_over_goals.md",
+            "file": "todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -69,7 +69,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "thoughts/systems_over_goals.md",
+            "file": "todo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -81,7 +81,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "thoughts/systems_over_goals.md"
+            "file": "todo.md"
           }
         }
       }
@@ -95,10 +95,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34df477624d41ee6",
+  "active": "a24df60fc0281d60",
   "lastOpenFiles": [
-    "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
     "thoughts/systems_over_goals.md",
+    "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
     "cse3903/cse3903_meeting_2023-09-05.md",
     "bsli/freertos.md",
     "thoughts/learning_days.md",
