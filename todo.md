@@ -3,13 +3,13 @@
 Can't learn everything at once. Some things depend on other things. And there's only so much time; spend it well.
 
 ## Today
-- [ ] go on hike
-- [ ] visit the arboretum, bring camera + drawing stuff
+- [x] go on hike
 - [ ] prepare for bsli meeting tomorrow
-- [ ] prepare for cse3903 meeting tomorrow
-- [ ] clean up tabs
+- [x] prepare for cse3903 meeting tomorrow
+- [x] clean up tabs
 
 ## Tomorrow
+- [ ] visit the arboretum, bring camera + drawing stuff
 - [ ] read the code book, chapter 2
 - [ ] start cse3421 hw
 ## Deadlines

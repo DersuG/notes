@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6c7f7dcff56257",
+        "id": "519307767bb6b377",
         "type": "tabs",
         "children": [
           {
-            "id": "2b91c376fd83d646",
+            "id": "a84b7bfa99c4edc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/misc_linklist.md",
+                "file": "misc/writing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/misc_linklist.md",
+                "file": "misc/writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/misc_linklist.md",
+                "file": "misc/writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/misc_linklist.md"
+                "file": "misc/writing.md"
               }
             }
           }
@@ -110,10 +110,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b91c376fd83d646",
+  "active": "a84b7bfa99c4edc7",
   "lastOpenFiles": [
-    "private/wishlist.md",
+    "thoughts/thoughts.md",
+    "todo.md",
     "private/collectives.md",
+    "private/misc_linklist.md",
+    "private/wishlist.md",
     "private/aa.md",
     "private/fem_clothing.md",
     "music/live_coding.md",
@@ -125,7 +128,6 @@
     "misc/indie.md",
     "thoughts/small_seasons.md",
     "thoughts/taoism.md",
-    "private/misc_linklist.md",
     "programming/cybersecurity.md",
     "worldbuilding/megastructures.md",
     "programming/gamedev.md",
@@ -136,9 +138,7 @@
     "worldbuilding/tech_cults.md",
     "programming/neocities_resources.md",
     "Untitled.md",
-    "todo.md",
     "private",
-    "programming/git_mobile.md",
     "cse3903/high_level_architecture.drawio",
     "mdwiki.html",
     "GPLv3.txt",
