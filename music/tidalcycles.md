@@ -5,3 +5,6 @@
 
 ## Fills
 - `whenmod 8 6`
+
+## Resources
+- http://tidalcycles.org/docs/patternlib/tutorials/course1/

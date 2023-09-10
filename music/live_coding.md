@@ -1,7 +1,8 @@
 # Live Coding (Music)
 
-## Articles
+## Media
 - [Hacking Perl in Nightclubs](https://www.perl.com/pub/2004/08/31/livecode.html/)
+- [180 Fact - Artist DIY: Digital Selves](https://www.youtube.com/watch?v=t2KeNblKSFM)
 
 ## Tools
 - [estuary](https://estuary.mcmaster.ca/)

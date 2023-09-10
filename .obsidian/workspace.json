@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "080953d6fbff6653",
+        "id": "dc6c7f7dcff56257",
         "type": "tabs",
         "children": [
           {
-            "id": "9ee95917f783b82d",
+            "id": "2b91c376fd83d646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c218fa2d621ed74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cse3903/cse3903_meeting_2023-09-05.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edcb3b53396d2219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cse3903/cse3903_meeting_2023-09-07_software_engineering.md",
+                "file": "private/misc_linklist.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cse3903/cse3903_meeting_2023-09-07_software_engineering.md",
+                "file": "private/misc_linklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cse3903/cse3903_meeting_2023-09-07_software_engineering.md",
+                "file": "private/misc_linklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cse3903/cse3903_meeting_2023-09-07_software_engineering.md"
+                "file": "private/misc_linklist.md"
               }
             }
           }
@@ -137,37 +110,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edcb3b53396d2219",
+  "active": "2b91c376fd83d646",
   "lastOpenFiles": [
-    "cse3903/cse3903_meeting_2023-09-05.md",
-    "cse3903/cse3903_meeting_2023-09-07_software_engineering.md",
-    "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
-    "cse3421/cse3421_meeting_2023-09-07.md",
-    "cse2431/cse2431_meeting_2023-09-07.md",
-    "thoughts/revelations_for_the_lost.md",
+    "private/wishlist.md",
+    "private/collectives.md",
+    "private/aa.md",
+    "private/fem_clothing.md",
+    "music/live_coding.md",
+    "music/tools.md",
+    "music/samples.md",
+    "music/making_music.md",
+    "music/algoraves.md",
+    "music/expanding_musical_horizons.md",
+    "misc/indie.md",
+    "thoughts/small_seasons.md",
+    "thoughts/taoism.md",
+    "private/misc_linklist.md",
+    "programming/cybersecurity.md",
+    "worldbuilding/megastructures.md",
+    "programming/gamedev.md",
+    "music/tidalcycles.md",
+    "misc/scripts.md",
+    "misc/writing.md",
+    "music/generative_music.md",
+    "worldbuilding/tech_cults.md",
+    "programming/neocities_resources.md",
+    "Untitled.md",
     "todo.md",
-    "cse3421/cse3421_meeting_2023-09-05_processing_instructions.md",
-    "cse3421/cse3421_meeting_2023-08-24_tech_stack.md",
-    "cse3421/cse3421_meeting_2023-08-29_performance.md",
-    "cse3421/cse3421_meeting_2023-08-31_abstractions.md",
-    "bsli/bsli_meeting_2023-09-06.md",
-    "ling3801/ling3801_meeting_2023-09-06_steganography.md",
-    "cse2431/cse2431_meeting_2023-09-05.md",
-    "cse2431/cse2431_meeting_2023-08-31_processes_2.md",
-    "cse3903/cse3903_meeting_2023-08-29_machine_characteristics.md",
-    "cse3903/cse3903_meeting_2023-08-31.md",
+    "private",
+    "programming/git_mobile.md",
     "cse3903/high_level_architecture.drawio",
-    "cse3903/cse3903_meeting_2023-08-24.md",
-    "thoughts/nonlinear_text.md",
-    "README.md",
-    "index.md.md",
-    "index.md",
-    "bsli/bsli_meeting_2023-08-30.md",
     "mdwiki.html",
     "GPLv3.txt",
-    "bsli/meeting_2023-08-30.md",
-    "bsli/freertos.md",
-    "bsli/meeting_notes_format.md",
     "bsli/architecture.drawio",
     "bsli/freertos_scheduling_example.png.png",
     "cse2431",
@@ -176,7 +150,6 @@
     "cse3903",
     "cse3421",
     "programming/thinkpad_dell.png",
-    "bsli",
     "solarpunk/wind_power_taiwan.jpg",
     "solarpunk/hydroponics_jms.png"
   ]

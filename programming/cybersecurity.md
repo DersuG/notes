@@ -14,6 +14,9 @@
 - [codepad](http://codepad.org/)
 - [shellcodes database](http://shell-storm.org/shellcode/index.html)
 
+## CTF tools
+- https://cyberchef.org/
+
 ## Documentation
 - [intel x86 reference](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 - [x86 opcodes reference](http://ref.x86asm.net/coder32.html#modrm_byte_32)
