@@ -4,7 +4,7 @@ Can't learn everything at once. Some things depend on other things. And there's 
 
 ## Today
 - [x] go on hike
-- [ ] prepare for bsli meeting tomorrow
+- [x] prepare for bsli meeting tomorrow
 - [x] prepare for cse3903 meeting tomorrow
 - [x] clean up tabs
 

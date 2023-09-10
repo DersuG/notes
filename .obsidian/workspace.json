@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/writing.md",
+                "file": "todo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc/writing.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc/writing.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/writing.md"
+                "file": "todo.md"
               }
             }
           }
@@ -112,6 +112,7 @@
   },
   "active": "a84b7bfa99c4edc7",
   "lastOpenFiles": [
+    "misc/writing.md",
     "thoughts/thoughts.md",
     "todo.md",
     "private/collectives.md",
@@ -133,7 +134,6 @@
     "programming/gamedev.md",
     "music/tidalcycles.md",
     "misc/scripts.md",
-    "misc/writing.md",
     "music/generative_music.md",
     "worldbuilding/tech_cults.md",
     "programming/neocities_resources.md",
