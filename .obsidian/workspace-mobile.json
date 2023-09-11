@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "programming/project_ideas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "todo.md",
+            "file": "programming/project_ideas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -69,7 +69,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "todo.md",
+            "file": "programming/project_ideas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -81,7 +81,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "todo.md"
+            "file": "programming/project_ideas.md"
           }
         }
       }
@@ -95,14 +95,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a24df60fc0281d60",
+  "active": "34df477624d41ee6",
   "lastOpenFiles": [
+    "todo.md",
     "worldbuilding/mini_charset.md",
     "cse3903/cse3903_meeting_2023-09-10.md",
     "bsli/bsli_meeting_2023-09-10.md",
     "thoughts/small_seasons.md",
     "thoughts/taoism.md",
-    "todo.md",
     "thoughts/systems_over_goals.md",
     "cse3903/cse3903_meeting_2023-09-03_vm_design_prep.md",
     "cse3903/cse3903_meeting_2023-09-05.md",
