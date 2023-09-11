@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bsli/bsli_meeting_2023-09-06.md",
+                "file": "programming/project_ideas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e86fc168f627d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "worldbuilding/mini_charset.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25f8414d8835ae8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ling3801/ling3801_meeting_2023-09-11.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "ling3801/ling3801_meeting_2023-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "ling3801/ling3801_meeting_2023-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "ling3801/ling3801_meeting_2023-09-11.md"
               }
             }
           }
@@ -124,13 +150,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dba3131089e27d7",
+  "active": "25f8414d8835ae8d",
   "lastOpenFiles": [
+    "programming/project_ideas.md",
+    "ling3801/ling3801_meeting_2023-09-11.md",
+    "todo.md",
     "worldbuilding/mini_charset.md",
     "bsli/bsli_meeting_2023-09-06.md",
     "bsli/bsli_meeting_2023-09-10.md",
     "cse3903/cse3903_meeting_2023-09-10.md",
-    "todo.md",
     "misc/writing.md",
     "thoughts/thoughts.md",
     "private/collectives.md",
@@ -150,8 +178,6 @@
     "programming/cybersecurity.md",
     "worldbuilding/megastructures.md",
     "programming/gamedev.md",
-    "music/tidalcycles.md",
-    "misc/scripts.md",
     "private",
     "cse3903/high_level_architecture.drawio",
     "mdwiki.html",

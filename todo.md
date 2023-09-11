@@ -6,7 +6,7 @@
 - [ ] finish cse2431 lab 1
 - [x] email O about the thing
 - [ ] take last few photos for art2555 proj 1
-- [ ] put in service request
+- [x] put in service request
 
 ## Tomorrow
 - [ ] ?
