@@ -6,7 +6,7 @@
 - [ ] make a git cheetsheet
 - [ ] upload schedule and C notes to onedrive
 - [ ] review today's cse3421 slides
-- [ ] gesture drawing + anatomy practice
+- [x] gesture drawing + anatomy practice
 - [ ] finish revising my resume
 - [ ] collect some example BSLI flight computer documentation
 
