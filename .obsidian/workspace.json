@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "06611562c07ccb66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cse3421/cse3421_meeting_2023-09-12.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "25f8414d8835ae8d",
             "type": "leaf",
             "state": {
@@ -70,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "cse3421/cse3421_meeting_2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "cse3421/cse3421_meeting_2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "cse3421/cse3421_meeting_2023-09-12.md"
               }
             }
           },
@@ -170,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dba3131089e27d7",
+  "active": "06611562c07ccb66",
   "lastOpenFiles": [
+    "cse3421/cse3421_meeting_2023-09-12.md",
     "programming/project_ideas.md",
     "ling3801/ling3801_meeting_2023-09-11.md",
     "todo.md",
@@ -197,7 +211,6 @@
     "thoughts/taoism.md",
     "programming/cybersecurity.md",
     "worldbuilding/megastructures.md",
-    "programming/gamedev.md",
     "private",
     "cse3903/high_level_architecture.drawio",
     "mdwiki.html",
