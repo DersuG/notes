@@ -58,9 +58,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5a4ff0368512055",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.10"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ling3801/ling3801_meeting_2023-09-11.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ling3801/ling3801_meeting_2023-09-11.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ling3801/ling3801_meeting_2023-09-11.md"
+                "file": "todo.md"
+              }
+            }
+          },
+          {
+            "id": "d8e108546419842e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -150,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25f8414d8835ae8d",
+  "active": "4dba3131089e27d7",
   "lastOpenFiles": [
     "programming/project_ideas.md",
     "ling3801/ling3801_meeting_2023-09-11.md",

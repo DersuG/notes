@@ -2,8 +2,8 @@
 
 ## Today
 - [ ] start cse3421 hw
-- [ ] do ling3801 hw 2
-- [ ] finish cse2431 lab 1
+- [x] do ling3801 hw 2
+- [x] finish cse2431 lab 1
 - [x] email O about the thing
 - [ ] take last few photos for art2555 proj 1
 - [x] put in service request
