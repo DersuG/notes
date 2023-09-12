@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-12.md",
+                "file": "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-12.md",
+                "file": "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-12.md",
+                "file": "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-12.md"
+                "file": "cse2431/cse2431_meeting_2023-09-12_threads_2.md"
               }
             }
           },
@@ -183,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06611562c07ccb66",
+  "active": "59da0c50f67790f9",
   "lastOpenFiles": [
+    "cse2431/cse2431_meeting_2023-09-05_processes_3.md",
+    "cse2431/cse2431_meeting_2023-09-07_threads_1.md",
+    "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
     "cse3421/cse3421_meeting_2023-09-12.md",
     "programming/project_ideas.md",
     "ling3801/ling3801_meeting_2023-09-11.md",
@@ -208,9 +211,6 @@
     "music/expanding_musical_horizons.md",
     "misc/indie.md",
     "thoughts/small_seasons.md",
-    "thoughts/taoism.md",
-    "programming/cybersecurity.md",
-    "worldbuilding/megastructures.md",
     "private",
     "cse3903/high_level_architecture.drawio",
     "mdwiki.html",
