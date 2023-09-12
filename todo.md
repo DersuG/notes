@@ -9,7 +9,8 @@
 - [x] put in service request
 
 ## Tomorrow
-- [ ] ?
+- [ ] make a git cheetsheet
+- [ ] upload schedule and C notes to onedrive
 
 ## Deadlines
 - [ ] art2555 project 1 due 2023-09-13 (wednesday)
