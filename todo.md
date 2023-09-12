@@ -2,15 +2,16 @@
 
 ## Today
 - [ ] start cse3421 hw
-- [x] do ling3801 hw 2
-- [x] finish cse2431 lab 1
-- [x] email O about the thing
 - [ ] take last few photos for art2555 proj 1
-- [x] put in service request
-
-## Tomorrow
 - [ ] make a git cheetsheet
 - [ ] upload schedule and C notes to onedrive
+- [ ] review today's cse3421 slides
+- [ ] gesture drawing + anatomy practice
+- [ ] finish revising my resume
+- [ ] collect some example BSLI flight computer documentation
+
+## Tomorrow
+- [ ] ?
 
 ## Deadlines
 - [ ] art2555 project 1 due 2023-09-13 (wednesday)
