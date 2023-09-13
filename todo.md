@@ -3,6 +3,17 @@
 ## Today
 - [ ] start cse3421 hw
 - [ ] take last few photos for art2555 proj 1
+    - [x] 9 (foreground middleground background, largest aperture)
+    - [x] 10 (foreground middleground background, medium aperture)
+    - [x] 11 (foreground middleground background, smallest aperture)
+    - [ ] 17 (frozen in motion)
+    - [ ] 18 (frozen in motion)
+    - [ ] 19 (frozen in motion)
+    - [ ] 20 (frozen in motion)
+    - [x] 28 (camera pointing directly at subject)
+    - [x] 30 (camera pointing down at subject)
+    - [ ] 32 (objects/people close together)
+    - [ ] 33 (objects/people far apart)
 - [x] make a git cheetsheet
 - [x] upload schedule and C notes to onedrive
 - [ ] review today's cse3421 slides
