@@ -12,14 +12,14 @@
     - [ ] 20 (frozen in motion)
     - [x] 28 (camera pointing directly at subject)
     - [x] 30 (camera pointing down at subject)
-    - [ ] 32 (objects/people close together)
+    - [x] 32 (objects/people close together)
     - [ ] 33 (objects/people far apart)
 - [x] make a git cheetsheet
 - [x] upload schedule and C notes to onedrive
 - [ ] review today's cse3421 slides
 - [x] gesture drawing + anatomy practice
 - [ ] finish revising my resume
-- [ ] collect some example BSLI flight computer documentation
+- [x] collect some example BSLI flight computer documentation
 
 ## Tomorrow
 - [ ] ?
