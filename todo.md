@@ -5,20 +5,20 @@
 
 ## Today
 - [ ] do cse3421 hw
-- [ ] take last few photos for art2555 proj 1
+- [x] take last few photos for art2555 proj 1
     - [x] 9 (foreground middleground background, largest aperture)
     - [x] 10 (foreground middleground background, medium aperture)
     - [x] 11 (foreground middleground background, smallest aperture)
-    - [ ] 17 (frozen in motion)
-    - [ ] 18 (frozen in motion)
-    - [ ] 19 (frozen in motion)
-    - [ ] 20 (frozen in motion)
+    - [x] 17 (frozen in motion) (steam)
+    - [x] 18 (frozen in motion) 
+    - [x] 19 (frozen in motion)
+    - [x] 20 (frozen in motion)
     - [x] 28 (camera pointing directly at subject)
     - [x] 30 (camera pointing down at subject)
     - [x] 32 (objects/people close together)
-    - [ ] 33 (objects/people far apart)
+    - [x] 33 (objects/people far apart)
 - [ ] review yesterday's cse3421 slides
-- [ ] finish revising my resume
+- [x] finish revising my resume
 - [x] collect some example BSLI flight computer documentation
 - [ ] prepare for tonight's bsli meeting
     - [ ] determine exact chip model
