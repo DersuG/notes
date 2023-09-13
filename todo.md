@@ -3,8 +3,8 @@
 ## Today
 - [ ] start cse3421 hw
 - [ ] take last few photos for art2555 proj 1
-- [ ] make a git cheetsheet
-- [ ] upload schedule and C notes to onedrive
+- [x] make a git cheetsheet
+- [x] upload schedule and C notes to onedrive
 - [ ] review today's cse3421 slides
 - [x] gesture drawing + anatomy practice
 - [ ] finish revising my resume

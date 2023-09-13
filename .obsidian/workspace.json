@@ -81,9 +81,19 @@
                 "currentVersion": "1.4.10"
               }
             }
+          },
+          {
+            "id": "a94cf86efbb5e0db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
+                "file": "todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
+                "file": "todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cse2431/cse2431_meeting_2023-09-12_threads_2.md"
+                "file": "todo.md"
               }
             }
           },
@@ -183,18 +193,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59da0c50f67790f9",
+  "active": "4dba3131089e27d7",
   "lastOpenFiles": [
+    "bsli/bsli_meeting_2023-09-10.md",
+    "todo.md",
     "cse2431/cse2431_meeting_2023-09-05_processes_3.md",
     "cse2431/cse2431_meeting_2023-09-07_threads_1.md",
     "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
     "cse3421/cse3421_meeting_2023-09-12.md",
     "programming/project_ideas.md",
     "ling3801/ling3801_meeting_2023-09-11.md",
-    "todo.md",
     "worldbuilding/mini_charset.md",
     "bsli/bsli_meeting_2023-09-06.md",
-    "bsli/bsli_meeting_2023-09-10.md",
     "cse3903/cse3903_meeting_2023-09-10.md",
     "misc/writing.md",
     "thoughts/thoughts.md",
