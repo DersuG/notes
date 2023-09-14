@@ -1,11 +1,11 @@
 # TODO
 
 ## Every day
-- [ ] gesture drawing + anatomy practice
+- [x] gesture drawing + anatomy practice
 
 ## Today
-- [ ] receive amazon package (lens cap)
-- [ ] work on cse3903 project
+- [x] receive amazon package (lens cap)
+- [x] work on cse3903 project
 - [ ] fix stn32cubeide installation
 
 ## Tomorrow
