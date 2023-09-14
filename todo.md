@@ -12,9 +12,7 @@
 - [ ] ?
 
 ## Deadlines
-- [ ] art2555 project 1 due 2023-09-13 (wednesday)
 - [ ] respond to flexispot support email
-- [ ] cse3421 homework 2 due 2023-09-14 (thursday)
 
 ## Goals
 - FreeRTOS on STM32
