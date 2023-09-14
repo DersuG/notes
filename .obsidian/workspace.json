@@ -4,96 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f1c3720a5c10758d",
+        "id": "14493b0493195b46",
         "type": "tabs",
         "children": [
           {
-            "id": "94e90c49070df37d",
+            "id": "1b4358ae657888ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/project_ideas.md",
+                "file": "cse2431/cse_2431_meeting_2023-09-14_scheduling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1e86fc168f627d73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "worldbuilding/mini_charset.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dba3131089e27d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06611562c07ccb66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25f8414d8835ae8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ling3801/ling3801_meeting_2023-09-11.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5a4ff0368512055",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.10"
-              }
-            }
-          },
-          {
-            "id": "a94cf86efbb5e0db",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "cse2431/cse_2431_meeting_2023-09-14_scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todo.md",
+                "file": "cse2431/cse_2431_meeting_2023-09-14_scheduling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo.md"
+                "file": "cse2431/cse_2431_meeting_2023-09-14_scheduling.md"
               }
             }
           },
@@ -193,8 +120,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59da0c50f67790f9",
+  "active": "1b4358ae657888ac",
   "lastOpenFiles": [
+    "cse3903/cse3903_meeting_2023-09-14_cucumber.md",
+    "cse2431/cse_2431_meeting_2023-09-14_scheduling.md",
+    "cse3421/cse3421_meeting_2023-09-14_pipelining.md",
+    "thoughts/diagrams.md",
+    "worldbuilding/mini_charset.md",
+    "private/misc_linklist.md",
+    "private/wishlist.md",
+    "programming/project_ideas.md",
     "bsli/bsli_meeting_2023-09-10.md",
     "bsli/bsli_meeting_2023-09-06.md",
     "bsli/bsli_meeting_2023-08-30.md",
@@ -207,21 +142,13 @@
     "cse2431/cse2431_meeting_2023-09-07_threads_1.md",
     "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
     "cse3421/cse3421_meeting_2023-09-12.md",
-    "programming/project_ideas.md",
     "ling3801/ling3801_meeting_2023-09-11.md",
-    "worldbuilding/mini_charset.md",
     "cse3903/cse3903_meeting_2023-09-10.md",
     "misc/writing.md",
     "thoughts/thoughts.md",
     "private/collectives.md",
-    "private/misc_linklist.md",
-    "private/wishlist.md",
     "private/aa.md",
     "private/fem_clothing.md",
-    "music/live_coding.md",
-    "music/tools.md",
-    "music/samples.md",
-    "music/making_music.md",
     "private",
     "cse3903/high_level_architecture.drawio",
     "mdwiki.html",
