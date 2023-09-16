@@ -1,19 +1,23 @@
 # TODO
 
 ## Every day
-- [ ] gesture drawing + anatomy practice
+- [x] gesture drawing + anatomy practice
+- [ ] practice memory recall before bed
+- [ ] practice visualizing things in imagination
 
 ## Today
 - [ ] work on cse3903 project
 - [ ] fix stn32cubeide installation
 - [ ] job applications
 - [ ] remove pump holder from bike
+- [ ] prepare for bsli meeting
+- [ ] go to arboretum / explore
 
 ## Tomorrow
-- [ ] prepare for bsli meeting
+- [ ] start cse3421 hw 3
 
 ## Deadlines
-- [ ] respond to flexispot support email
+- [x] respond to flexispot support email
 - [ ] cse3421 hw 3 due 2023-09-21 (thursday)
 - [ ] art2555 project 2 due ???
 - [ ] cse2431 lab 2 due 2023-10-09
