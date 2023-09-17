@@ -1,20 +1,18 @@
 # TODO
 
 ## Every day
-- [x] gesture drawing + anatomy practice
+- [ ] gesture drawing + anatomy practice
 - [ ] practice memory recall before bed
 - [ ] practice visualizing things in imagination
 
 ## Today
-- [x] work on cse3903 project
-- [x] fix stn32cubeide installation
+- [ ] work on cse3903 project
 - [ ] job applications
-- [x] remove pump holder from bike
-- [ ] prepare for bsli meeting
-- [x] go to arboretum / explore
+- [ ] start cse3421 hw 3
+- [ ] longboar
 
 ## Tomorrow
-- [ ] start cse3421 hw 3
+- [ ] ?
 
 ## Deadlines
 - [x] respond to flexispot support email
