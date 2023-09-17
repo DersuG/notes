@@ -6,12 +6,12 @@
 - [ ] practice visualizing things in imagination
 
 ## Today
-- [ ] work on cse3903 project
-- [ ] fix stn32cubeide installation
+- [x] work on cse3903 project
+- [x] fix stn32cubeide installation
 - [ ] job applications
-- [ ] remove pump holder from bike
+- [x] remove pump holder from bike
 - [ ] prepare for bsli meeting
-- [ ] go to arboretum / explore
+- [x] go to arboretum / explore
 
 ## Tomorrow
 - [ ] start cse3421 hw 3
