@@ -6,13 +6,15 @@
 - [ ] practice visualizing things in imagination
 
 ## Today
-- [ ] work on cse3903 project
+- [x] work on cse3903 project
 - [ ] job applications
-- [ ] start cse3421 hw 3
-- [ ] longboar
+- [x] start ling3801 hw 3
+- [x] longboar
 
 ## Tomorrow
-- [ ] ?
+- [ ] start cse3421 hw 3
+- [ ] job applications
+- [ ] prepare for bsli meeting
 
 ## Deadlines
 - [x] respond to flexispot support email
@@ -20,6 +22,7 @@
 - [ ] art2555 project 2 due ???
 - [ ] cse2431 lab 2 due 2023-10-09
 - [ ] cse3903 project 1 (vm) due 2023-09-26
+- [ ] cse2431 hw 1 due 2023-09-26
 
 ## Goals
 - FreeRTOS on STM32
