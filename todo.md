@@ -8,13 +8,13 @@
 ## Today
 - [x] work on cse3903 project
 - [ ] job applications
-- [x] start ling3801 hw 3
-- [x] longboar
+- [ ] prepare for bsli meeting
 
 ## Tomorrow
 - [ ] start cse3421 hw 3
 - [ ] job applications
-- [ ] prepare for bsli meeting
+- [ ] register for HackOHI/O
+- [ ] find that one documentary
 
 ## Deadlines
 - [x] respond to flexispot support email
@@ -23,6 +23,7 @@
 - [ ] cse2431 lab 2 due 2023-10-09
 - [ ] cse3903 project 1 (vm) due 2023-09-26
 - [ ] cse2431 hw 1 due 2023-09-26
+- [ ] cse3903 CATME survey due ???
 
 ## Goals
 - FreeRTOS on STM32
