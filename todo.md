@@ -10,15 +10,16 @@
     - [ ] connect everything together
     - [ ] tests
     - [x] programmer's guide
-    - [ ] prototype assembler
+    - [x] prototype assembler
 - [ ] job applications
     - [ ] get updated job description from oliver
     - [ ] update LinkedIn
     - [ ] apply to at least 1 today for real this time
-- [ ] do another osucyber reversing ctf challenge
-- [ ] cse3421 hw 3
+- [x] do another osucyber reversing ctf challenge
+- [x] cse3421 hw 3
 - [ ] register for HackOHI/O
 - [ ] find that one documentary
+- [x] submit photos on OneDrive
 
 ## Tomorrow
 - [ ] job applications
