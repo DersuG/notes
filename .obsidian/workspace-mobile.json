@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "ling3801/public_key_cryptography.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -76,7 +76,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "todo.md",
+            "file": "ling3801/public_key_cryptography.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "todo.md",
+            "file": "ling3801/public_key_cryptography.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "todo.md"
+            "file": "ling3801/public_key_cryptography.md"
           }
         }
       }
@@ -114,6 +114,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false
@@ -121,8 +122,8 @@
   },
   "active": "7ecbad234a3bde5b",
   "lastOpenFiles": [
-    "no_passion.md",
     "todo.md",
+    "no_passion.md",
     "misc/puzzle_ideas.md",
     "misc/photography.md",
     "misc/breakaways.md",
