@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88a2efda8acdf9bf",
+        "id": "bcb3d87652ca1b42",
         "type": "tabs",
         "children": [
           {
-            "id": "fe98912ad2f3e64a",
+            "id": "f7d919c2af6d0bcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-19_memory_hierarchy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03a975a470f1db4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
+                "file": "cse2431/page_replacement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -43,11 +30,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37f73e0cc437f5f6",
+        "id": "505222ea9e6c0e93",
         "type": "tabs",
         "children": [
           {
-            "id": "59da0c50f67790f9",
+            "id": "48ec2fc85a5e3dc1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +47,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376
+    "width": 316
   },
   "right": {
     "id": "906f1c2c87282c09",
@@ -76,7 +63,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-19_memory_hierarchy.md",
+                "file": "cse2431/page_replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +80,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-19_memory_hierarchy.md",
+                "file": "cse2431/page_replacement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cse3421/cse3421_meeting_2023-09-19_memory_hierarchy.md"
+                "file": "cse2431/page_replacement.md"
               }
             }
           },
@@ -124,57 +111,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false
     }
   },
-  "active": "fe98912ad2f3e64a",
+  "active": "f7d919c2af6d0bcd",
   "lastOpenFiles": [
-    "cse3421/cse3421_meeting_2023-09-14_pipelining.md",
-    "cse3421/cse3421_meeting_2023-09-19_memory_hierarchy.md",
-    "todo.md",
-    "ling3801/ling3801_meeting_2023-09-18.md",
+    "cse2431/segmentation.md",
+    "cse2431/attachments/segmentation_address_mapping_intel.png",
+    "cse2431/attachments/segmentation_sharing.png",
+    "cse2431/attachments/segmentation_address_mapping.png",
+    "cse2431/attachments/segmentation.png",
+    "cse2431/attachments",
+    "cse2431/segmentation.png",
+    "cse3421/multicore_cache.md",
+    "cse3421/multicolumn_cache.md",
+    "cse3421/cache_color_bits.svg",
+    "cse3421/fast_dram_and_interleaving.md",
+    "Pasted image 20231107101453.png",
+    "cse3421/cache_allocation_technology.png",
+    "cse3421/memory_hierarchy.md",
+    "cse3421/cache.md",
+    "misc/photography.md",
     "private/misc_linklist.md",
+    "cse2431/page_replacement.md",
+    "Pasted image 20231102155347.png",
+    "cse3421/direct_mapped_cache.md",
     "private/watchlist.md",
-    "README.md",
-    "cse2431/cse_2431_meeting_2023-09-14_scheduling.md",
-    "cse3903/cse3903_meeting_2023-09-14_cucumber.md",
-    "thoughts/diagrams.md",
-    "worldbuilding/mini_charset.md",
-    "private/wishlist.md",
-    "programming/project_ideas.md",
-    "bsli/bsli_meeting_2023-09-10.md",
-    "bsli/bsli_meeting_2023-09-06.md",
-    "bsli/bsli_meeting_2023-08-30.md",
-    "bsli/bsli_meeting_2023-08-27_concurrency.md",
-    "bsli/bsli_meeting_2023-08-13_avionics_requirements.md",
-    "bsli/bsli_meeting_2023-07-15_onboarding.md",
-    "bsli/architecture.drawio.png",
-    "cse2431/cse2431_meeting_2023-09-05_processes_3.md",
-    "cse2431/cse2431_meeting_2023-09-07_threads_1.md",
-    "cse2431/cse2431_meeting_2023-09-12_threads_2.md",
+    "cse3421/pipelining.md",
+    "cse3421/virtual_memory.md",
+    "cse3421/lirs.md",
     "cse3421/cse3421_meeting_2023-09-12.md",
-    "ling3801/ling3801_meeting_2023-09-11.md",
-    "cse3903/cse3903_meeting_2023-09-10.md",
-    "misc/writing.md",
+    "cse3421/cse3421_meeting_2023-09-07.md",
+    "cse3421/cse3421_meeting_2023-09-05_processing_instructions.md",
+    "cse3421/cse3421_meeting_2023-08-31_abstractions.md",
+    "cse3421/cse3421_meeting_2023-08-29_performance.md",
+    "cse3421/cse3421_meeting_2023-08-24_tech_stack.md",
+    "cse3421/set_associative_cache.md",
+    "programming/cve.md",
+    "cse3903/loader.md",
+    "cse3421/swap_token.md",
+    "cse3421/clock-pro.md",
+    "cse3903/high_level_architecture.drawio.png",
+    "food",
+    "cse2431/attachments/scheduling.drawio",
     "private",
     "cse3903/high_level_architecture.drawio",
     "mdwiki.html",
     "GPLv3.txt",
     "bsli/architecture.drawio",
-    "bsli/freertos_scheduling_example.png.png",
     "cse2431",
-    "ling3801",
-    "music",
-    "cse3903",
-    "cse3421",
-    "programming/thinkpad_dell.png",
-    "solarpunk/wind_power_taiwan.jpg",
-    "solarpunk/hydroponics_jms.png"
+    "ling3801"
   ]
 }

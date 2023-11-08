@@ -1,0 +1,49 @@
+<mxfile host="Electron" modified="2023-10-19T23:14:13.021Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="CF6ufFHqDMb3PniFxCwK" version="21.6.1" type="device">
+  <diagram name="Page-1" id="7NrkMI7eZCH-cxM7LANX">
+    <mxGraphModel dx="1434" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AfyjUCJfOOYES1HglFmX-1" value="Assembler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-2" value="FirstPass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-3" value="SecondPass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-6" value="Map&amp;lt;&amp;gt; symbol table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-7" value="Map&amp;lt;&amp;gt; literal table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-8" value="FirstPass takes in source file and writes to the intermediate file.&lt;br&gt;SecondPass takes in the intermediate file and writes to the output file and the listing file." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-9" value="Intermediate file needs to store this info:&lt;br&gt;- original assembly instructions&lt;br&gt;- line number of each instruction&lt;br&gt;- no comments&lt;br&gt;we can just have it be a cleaned-up version of the original file" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-10" value="Tokenizing has to happen in both passes. The assembly has specific widths for parts of each instruction, so it shouldn&#39;t be too hard. Need to do it character by character, because something like split() in python would be like a secret third pass." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="680" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-11" value="Pass 1 will catch syntax errors." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="800" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-12" value="Both pass 1 and pass 2 will share similar parsing logic.&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Each instruction will become 5 tokens:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- label (may be empty)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- operation&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- operand1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- operand2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- operand3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="880" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-13" value="The only cli arg will be the path of the source file." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-14" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyjUCJfOOYES1HglFmX-15" value="Opcodes and pseudo ops will be categorized into &quot;formats&quot;.&lt;br&gt;Formats will be represented by enums.&lt;br&gt;Opcode-specific data will be stored elsewhere." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="240" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
