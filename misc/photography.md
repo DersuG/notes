@@ -13,3 +13,7 @@
 
 ## Artists
 - [Rich-Joseph Facun](https://facun.com/)
+
+## Things to try
+- centering targets in subframes (gregory crewsdson)
+

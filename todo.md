@@ -4,29 +4,31 @@
 - [ ] gesture drawing + anatomy practice
 - [ ] practice memory recall before bed
 - [ ] practice visualizing things in imagination
+- [ ] worldbuilding
+- [ ] plaintext journaling
 
 ## Today
-- [ ] work on cse3903 project
-    - [ ] connect everything together
-    - [ ] tests
-    - [ ] programmer's guide
-- [ ] job applications
-- [ ] start cse3421 hw 3
-- [ ] prepare for bsli meeting
+- [ ] art2555 check project 4 meeting dates for conflicts with exams
+- [ ] bsli history doc
 
 ## Tomorrow
 - [ ] job applications
 
 ## Deadlines
-- [ ] cse3421 hw 3 due 2023-09-21 (thursday)
-- [ ] art2555 project 2 due ???
-- [ ] cse2431 lab 2 due 2023-10-09
-- [ ] cse3903 project 1 (vm) due 2023-09-26
-- [ ] cse2431 hw 1 due 2023-09-26
+- [ ] cse3903 catme survey (2023-11-12)
+
+## Backlog
+- [ ] job applications
+- [ ] learn some shader code
+- [ ] zine stuff
+- [ ] make notes:
+    - [ ] watch time vs. do time
+    - [ ] consume photographers' work
+    - [ ] eye phobia
+    - [ ] be bored or work
+- [ ] live coding / generative music / algorave
+- [ ] glitch art
 
 ## Goals
-- FreeRTOS on STM32
-- glitch art + datamoshing
-- TidalCycles
 - application development
 - [[cybersecurity]] + reversing
