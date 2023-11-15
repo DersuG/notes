@@ -16,6 +16,7 @@
 
 ## Deadlines
 - [ ] cse3903 catme survey (2023-11-12)
+- [ ] nerf gun by monday (2023-11-13)
 
 ## Backlog
 - [ ] job applications
