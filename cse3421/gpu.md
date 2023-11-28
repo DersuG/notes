@@ -52,3 +52,35 @@
     - starts on CPU
     - launch GPU kernels to run parallel GPU code with multiple threads
     - return to CPU to execute sequential code
+
+## CUDA multidimensional programming concepts
+- **GPU kernel:** a function that can be executed on the GPU
+    - 1 grid
+    - 6 thread blocks (2x3)
+    - 15 threads (3x5)
+    - represented as a multidimensional grid
+- **thread block scheduler:** schedules a block of threads
+- many libraries (e.g  cuBLAS)
+```c
+int main (void)
+{
+    /* allocate mem on gpu */
+    /* H2D */
+    /* execute gpu kernel */
+    /* D2H */
+    /* free gpu mem */
+}
+/* see slides */
+```
+
+## Avoiding branch delay
+- branching is avoided in GPU
+- when GPU kernel has branch:
+    - some threads go to path A, some go to path B
+    - all threads first execute path A, then execute path B
+    - hardware-supported execution mask will control write-back of results
+    - execution of paths A and B is serialized
+
+## Avoiding uncoalesced memory access
+- **coalesced memory access:** if a warp accesses consecutive memory addresses, data can be loaded in a single 128-byte memory transaction
+- **uncoalesced memory access:** if a warp accesses different memory addresses, data is loaded in multiple 32-byte transactions

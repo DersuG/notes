@@ -10,6 +10,8 @@
 ## Today
 - [ ] art2555 check project 4 meeting dates for conflicts with exams
 - [ ] bsli history doc
+- [ ] ling3801 eval
+- [ ] the game
 
 ## Tomorrow
 - [ ] job applications
