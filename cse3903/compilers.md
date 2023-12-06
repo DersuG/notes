@@ -55,3 +55,53 @@
 - not all states are accepting
     - accepting states are circled
 - transitions are labeled by the character they consume
+
+## Limitations of RE
+- expressive power of RE is same as FSA, and both are limited
+- writing an RE for strings of balanced parens is impossible
+- FSA has predefined limit on how much nesting can be encoded
+
+## REs in practice
+- used to find a match
+
+### Anchors
+- specify where matching string should be with respect to a line of text
+- `^` beginning of line
+- `$` end of line
+- `\A` beginning of string
+- `\z` end of string
+
+### Greedy vs. lazy
+- repetition allows multiple matches to begin at same place
+- which match is selected depends on algorithm:
+    - greedy: matches as much as possible
+    - lazy: matches as little as possible
+ - default is usually greedy
+ - for lazy matching use `*?` or `+?`
+
+## Chomsky's hierarchy
+- type 3: regular
+    - left side is 1 non-terminal
+    - right side has at most 1 non-terminal
+    - `S -> aaB`
+    - finite state machine (FSA)
+- type 2: context-free
+    - left side is 1 non-terminal
+    - `S -> aBBb`
+    - push-down automaton (PDA)
+- type 1: context-sensitive
+    - left side contains 1 non-terminal that is modified by rule
+    - `aSBb -> aBBb`
+    - bounded turing machine
+- type 0: general
+    - no restrictions
+    - `aSBb -> BSbaa`
+    - turing machine
+
+## Context free grammar (CFG)
+- all rules have 1 non-terminal on the left
+- more powerful than RE
+- efficient algorithms
+- epsilon symbol means empty string
+
+
