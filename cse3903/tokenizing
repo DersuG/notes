@@ -1,0 +1,31 @@
+# Tokenizing
+
+## Languages
+- **language:** a set of strings
+
+## High level compiler structure
+1. stream of characters
+2. `[lexical analyzer]`
+3. stream of tokens
+4. `[parser]`
+5. parse tree
+6. `[code generator]`
+7. object file
+
+## Lexical analysis
+- lexer aka scanner aka tokenizer
+- groups adjacent characters as tokens
+  - keywords
+  - operators
+  - identifiers
+  - literals
+
+## Tokens
+- have:
+  - type (e.g. int, float, id, keyword WHILE, etc.)
+  - value (e.g. 100, 3.4, "mean", etc.)
+- value is optional
+- a token type is its own simple language
+
+## Regular expressions
+
