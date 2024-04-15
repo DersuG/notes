@@ -10,30 +10,20 @@
 - [ ] voice training
 
 ## Today
-- [ ] email oliver asking about other internship opportunities, especially for cybersecurity
-- [ ] print out syllabi + release of claims
-- [x] tell boggus i wanna use godot
-- [x] buy film
-- [x] 3902 catme
-- [x] send packet format to lauren
-- [ ] figure out usb pins 
-- [ ] print stuff
-    - [ ] manual
-    - [ ] photo 2 project 2 log
 - [ ] buy fiber paper
+- [ ] photo 2 assignment 4 proposal due tonight
+- [ ] cse 3341 concurrency project
+- [ ] lab 7 proposal email
 
 ## Tomorrow
-- [ ] (photo 2) bring camera, film, photogram stuff, lock, film
-- [ ] buy a lock dummy
+- [ ] meet with advisor
 
 ## Deadlines
-- [x] 2024-01-11 (thursday) photo 2 notebook, camera, film, stuff for photogram, lock
-- [ ] photography readings
-    - [ ] technical 
-    - [ ] conceptual 
-- [ ] 2024-01-24 (thursday) photo 2 bring contact sheets, paper, photogram materials, etc.
+- [ ] photo 2 library assignment (thursday 2024-04-18)
+- [ ] cse3341 concurrency project (tuesday 2024-04-16)
+- [ ] cse3341 concurrency hw (friday 2024-04-19)
+- [ ] cse3541 lab 7 (friday 2024-04-19)
 ## Backlog
-- [ ] job applications
 - [ ] learn some shader code
 - [ ] zine stuff
 - [ ] make notes:
@@ -43,7 +33,3 @@
     - [ ] be bored or work
 - [ ] live coding / generative music / algorave
 - [ ] glitch art
-
-## Goals
-- application development
-- [[cybersecurity]] + reversing
