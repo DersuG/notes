@@ -6,5 +6,6 @@
   "useTab": false,
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "tabSize": 4
 }
