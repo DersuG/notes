@@ -11,26 +11,33 @@
     - [x] razor
     - [x] shampoo
     - [x] body wash
+    - [x] nail clippers
     - [x] moisturizer
+    - [x] hand moisturizer
 - [x] art
     - [x] markers
+    - [x] pens
     - [x] notecards
     - [x] sketchbook
-- [ ] books
-    - [x] francesca woodman photo book
-    - [x] taiwan photo book
-    - [x] chuang tzu
-    - [x] mork borg + feretory
-    - [ ] 
-- [x] camera + charger
-- [x] laptop + charger
+    - [x] drawing tablet
+- [x] books
+    - [x] pocket c guide
+- [ ] keyboard + cable + earbuds
+- [x] photography
+    - [x] camera + charger
+    - [x] 35mm camera + accessories
+- [x] laptop + charger + mouse
+- [x] ssd + cable
 - [x] headphones + charger
 - [x] phone charger
 - [x] glasses
 - [x] wallet
-- [ ] apartment keys + house keys
+- [x] apartment keys + house keys
 
 
 
 oranges
 bring back mtg cards for beb
+
+## Left at home
+- 

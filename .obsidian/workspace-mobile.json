@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cse3421/gpu.md",
+                "file": "misc/packing_list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -76,7 +78,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "cse3421/gpu.md",
+            "file": "misc/packing_list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +95,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "cse3421/gpu.md",
+            "file": "misc/packing_list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +107,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "cse3421/gpu.md"
+            "file": "misc/packing_list.md"
           }
         }
       }
@@ -122,8 +124,10 @@
   },
   "active": "7ecbad234a3bde5b",
   "lastOpenFiles": [
-    "misc/packing_list.md",
     "todo.md",
+    "misc/packing_list.md",
+    "README.md",
+    "cse3421/gpu.md",
     "ling3801/public_key_cryptography.md",
     "no_passion.md",
     "misc/puzzle_ideas.md",
@@ -146,8 +150,6 @@
     "cse3903/cse3903_meeting_2023-09-05.md",
     "bsli/freertos.md",
     "thoughts/learning_days.md",
-    "thoughts/rationalizations.md",
-    "bsli/meeting_2023-08-30.md",
-    "README.md"
+    "thoughts/rationalizations.md"
   ]
 }

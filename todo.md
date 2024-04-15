@@ -6,20 +6,32 @@
 - [ ] practice visualizing things in imagination
 - [ ] worldbuilding
 - [ ] plaintext journaling
+- [ ] meditate
+- [ ] voice training
 
 ## Today
-- [ ] art2555 check project 4 meeting dates for conflicts with exams
-- [ ] bsli history doc
-- [ ] ling3801 eval
-- [ ] the game
+- [ ] email oliver asking about other internship opportunities, especially for cybersecurity
+- [ ] print out syllabi + release of claims
+- [x] tell boggus i wanna use godot
+- [x] buy film
+- [x] 3902 catme
+- [x] send packet format to lauren
+- [ ] figure out usb pins 
+- [ ] print stuff
+    - [ ] manual
+    - [ ] photo 2 project 2 log
+- [ ] buy fiber paper
 
 ## Tomorrow
-- [ ] job applications
+- [ ] (photo 2) bring camera, film, photogram stuff, lock, film
+- [ ] buy a lock dummy
 
 ## Deadlines
-- [ ] cse3903 catme survey (2023-11-12)
-- [ ] nerf gun by monday (2023-11-13)
-
+- [x] 2024-01-11 (thursday) photo 2 notebook, camera, film, stuff for photogram, lock
+- [ ] photography readings
+    - [ ] technical 
+    - [ ] conceptual 
+- [ ] 2024-01-24 (thursday) photo 2 bring contact sheets, paper, photogram materials, etc.
 ## Backlog
 - [ ] job applications
 - [ ] learn some shader code
